@@ -2,5 +2,5 @@ hola-mundo
 ==========
 
 Mi primer repositorio en github 
-me gusta :la pizza:, :bailar:,
+me gusta :comer:, :bailar:, :cantar:
 
